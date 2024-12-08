@@ -1,0 +1,11 @@
+.magazine {
+  padding: 0 10px;
+}
+.mag-frontpage-img {
+  height: 130px;
+  cursor: pointer;
+}
+.mag-frontpage-price {
+  color: white;
+  text-align: right;
+}
